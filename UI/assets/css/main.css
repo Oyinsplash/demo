@@ -23,3 +23,7 @@ body{
     border-radius: 2px;
     text-align: center;
 }
+
+#greetings{
+    font-style: italic;
+}
