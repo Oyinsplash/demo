@@ -1,0 +1,15 @@
+body{
+    padding:40px;
+    background-color: skyblue;
+    text-align: center;
+}
+
+.header{
+    color: #fff;
+    font-style: oblique;
+}
+.para{
+    color: #fff;
+    font-family: verdana;
+    font-size:20px;
+}
